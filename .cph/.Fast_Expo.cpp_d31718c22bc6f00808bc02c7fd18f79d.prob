@@ -1,0 +1,1 @@
+{"name":"Local: Fast_Expo","url":"e:\\cp\\Fast_Expo.cpp","tests":[{"id":1621272939959,"input":"2 2","output":"4"},{"id":1621272990138,"input":"2 3","output":"8"},{"id":1621273002175,"input":"5 2","output":"25"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cp\\Fast_Expo.cpp","group":"local","local":true}
