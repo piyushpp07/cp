@@ -13,5 +13,5 @@ int main()
             s[i].insert(x % 42);
         }
         cout << s[i].size() << "\n";
-    }
+        }
 }
