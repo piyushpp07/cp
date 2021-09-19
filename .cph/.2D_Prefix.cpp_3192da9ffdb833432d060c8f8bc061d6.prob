@@ -1,0 +1,1 @@
+{"name":"Local: 2D_Prefix","url":"e:\\cp\\2D_Prefix.cpp","tests":[{"id":1622350335234,"input":"3 3\n1 2 3\n1 2 3 \n4 3 2\n1\n1 1 3 3","output":"21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cp\\2D_Prefix.cpp","group":"local","local":true}
